@@ -3,12 +3,11 @@
 ### Decision Tree & CNN & WGAN-GP
 
 #### Decision Tree
- ![DT](https://github.com/integralstar/AI_Vaccine/blob/main/dt.png)
- ![Sharp](https://github.com/integralstar/AI_Vaccine/blob/main/sharp.png)
 1. DT를 악성 코드를 분류 할 수 있는 요인들을 찾기 위한 방법론으로 사용함 
 2. 특성 중요도를 찾기 위해 게임이론(Game Thoery)의 Shapley Value 측정 - XAI(eXplainable AI)
 3. 파라미터 튜닝을 위한 GridSearch 사용
-
+![Sharp](https://github.com/integralstar/AI_Vaccine/blob/main/sharp.png)
+![DT](https://github.com/integralstar/AI_Vaccine/blob/main/dt.png)
 
 #### CNN
 Deep Learning을 이용한 일반적인 탐지 방법
