@@ -6,7 +6,7 @@
 1. DT를 악성 코드를 분류 할 수 있는 요인들을 찾기 위한 방법론으로 사용함 
 2. 특성 중요도를 찾기 위해 게임이론(Game Thoery)의 Shapley Value 측정 - XAI(eXplainable AI)
 3. GridSearch를 이용한 파라미터 튜닝
-4. 추후 성능을 높이기 위한 방법으로 RandomForest로 대치 가능
+4. 파라미터를 튜닝할 경우 RandomForest보다 성능이 좋음
 
 #### CNN
 Deep Learning을 이용한 일반적인 탐지 방법
